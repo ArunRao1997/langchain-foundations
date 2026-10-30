@@ -115,5 +115,3 @@ uv run isort .
 | `model ... does not exist` | Your account can't use the default model. Set `OPENAI_MODEL=` in `.env` to one it can use. |
 | Ollama `ConnectionError` | The Ollama app isn't running. Start it, or run `ollama serve`. |
 | `model 'gemma3:270m' not found` | Run `ollama pull gemma3:270m`. |
-
-**Next:** [Section 2 — Your First Agent](../section-02-first-agent/README.md)
