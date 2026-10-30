@@ -1,6 +1,6 @@
 # Section 1 — LangChain Foundations
 
-> **Future with Shivank — AI Harness** · prompt templates, chat models, chains, local models and tracing
+> **Future — AI Harness** · prompt templates, chat models, chains, local models and tracing
 
 ## What you'll learn
 
@@ -47,7 +47,7 @@ uv run python 04_inspect_the_response_object.py --local   # Ollama
 ## Expected output (script 02, sample)
 
 ```
-Hello from Future with Shivank — AI Harness!
+Hello from Future — AI Harness!
 Model: gpt-5.6-sol
 
 1. Headline: From newspaper boy in Rameswaram to India's "Missile Man" and President.
